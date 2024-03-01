@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 REPO_NAME = "Text-Summarization"
 AUTHOR_USER_NAME = "1hssane"
-SRC_REPO = "textSummarizer"
+SRC_REPO = "textSummarization"
 AUTHOR_EMAIL = "ihssaneelfadli100@gmail.com"
 
 setuptools.setup(
